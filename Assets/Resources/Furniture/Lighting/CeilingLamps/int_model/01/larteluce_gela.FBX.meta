@@ -1,0 +1,844 @@
+fileFormatVersion: 2
+guid: 3faf1c961d8fbab4e83d7b2f69184729
+timeCreated: 1490668290
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bra
+    100002: bra 3
+    100004: bra smol
+    100006: Circle007
+    100008: Circle008
+    100010: Circle009
+    100012: Circle010
+    100014: Circle011
+    100016: Circle012
+    100018: Circle013
+    100020: Circle014
+    100022: Circle015
+    100024: Circle016
+    100026: Circle017
+    100028: Circle018
+    100030: Circle019
+    100032: Circle020
+    100034: Circle021
+    100036: Circle021 1
+    100038: Circle022
+    100040: Circle022 1
+    100042: Cylinder568
+    100044: Cylinder569
+    100046: Cylinder570
+    100048: Cylinder571
+    100050: Cylinder572
+    100052: Cylinder573
+    100054: Cylinder574
+    100056: Cylinder575
+    100058: Cylinder576
+    100060: Cylinder577
+    100062: Cylinder578
+    100064: Cylinder579
+    100066: Cylinder580
+    100068: Cylinder581
+    100070: Cylinder582
+    100072: Cylinder583
+    100074: Cylinder584
+    100076: Cylinder585
+    100078: Cylinder587
+    100080: Cylinder587 1
+    100082: Cylinder588
+    100084: Cylinder614
+    100086: Cylinder615
+    100088: Cylinder616
+    100090: Cylinder616 1
+    100092: Cylinder617
+    100094: Cylinder617 1
+    100096: Cylinder618
+    100098: Cylinder618 1
+    100100: Group185
+    100102: Group190
+    100104: Group195
+    100106: Group200
+    100108: Group204
+    100110: Group205
+    100112: Group207
+    100114: Group208
+    100116: Group209
+    100118: Group329
+    100120: Group330
+    100122: Group331
+    100124: Group332
+    100126: Group332 1
+    100128: Group333
+    100130: Group333 1
+    100132: Group334
+    100134: Group334 1
+    100136: //RootNode
+    100138: Line001
+    100140: Line003
+    100142: Line031
+    100144: Line032
+    100146: Line033
+    100148: Line034
+    100150: Line035
+    100152: Line036
+    100154: Line037
+    100156: Line038
+    100158: Line039
+    100160: Line040
+    100162: Line041
+    100164: Line042
+    100166: Line043
+    100168: Line044
+    100170: Line045
+    100172: Line046
+    100174: Line047
+    100176: Line048
+    100178: Line049
+    100180: Line050
+    100182: Line051
+    100184: Line052
+    100186: Line053
+    100188: Line054
+    100190: Line055
+    100192: Line056
+    100194: Line057
+    100196: Line058
+    100198: Line059
+    100200: Line060
+    100202: Line061
+    100204: Line062
+    100206: Line063
+    100208: Line064
+    100210: Line065
+    100212: Line066
+    100214: Line067
+    100216: Line068
+    100218: Line069
+    100220: Line070
+    100222: Line071
+    100224: Line072
+    100226: Line073
+    100228: Line074
+    100230: Line075
+    100232: Line076
+    100234: Line077
+    100236: Line078
+    100238: Line079
+    100240: Line080
+    100242: Line081
+    100244: Line082
+    100246: Line083
+    100248: Line084
+    100250: Line085
+    100252: Line086
+    100254: Line087
+    100256: Line088
+    100258: Line089
+    100260: Line090
+    100262: Line091
+    100264: Line092
+    100266: Line093
+    100268: Line094
+    100270: Line095
+    100272: Line096
+    100274: Line097
+    100276: Line098
+    100278: Line099
+    100280: Line100
+    100282: Line101
+    100284: Line102
+    100286: Line103
+    100288: Line272
+    100290: Line273
+    100292: Line274
+    100294: Line275
+    100296: Line276
+    100298: Line278
+    100300: Line278 1
+    100302: Line279
+    100304: Line279 1
+    100306: Line280
+    100308: Line281
+    100310: Line282
+    100312: Line283
+    100314: Line284
+    100316: Line285
+    100318: Line286
+    100320: Line287
+    100322: Line288
+    100324: Line289
+    100326: Line290
+    100328: Line291
+    100330: Line292
+    100332: Line293
+    100334: Line293 1
+    100336: Line294
+    100338: Line294 1
+    100340: Line295
+    100342: Line295 1
+    100344: Line296
+    100346: Line296 1
+    100348: Line297
+    100350: Line297 1
+    100352: Line298
+    100354: Line298 1
+    100356: Line299
+    100358: Line299 1
+    100360: Line300
+    100362: Line300 1
+    100364: Line301
+    100366: Line301 1
+    100368: Line302
+    100370: Line302 1
+    100372: Line303
+    100374: Line303 1
+    100376: Line304
+    100378: Line305
+    100380: lustra
+    100382: lustra 1
+    100384: Sphere181
+    100386: Sphere182
+    100388: Sphere183
+    100390: Sphere184
+    100392: Sphere185
+    100394: Sphere186
+    100396: Sphere187
+    100398: Sphere188
+    100400: Sphere189
+    100402: Sphere199
+    100404: Sphere199 1
+    100406: Sphere200
+    100408: Sphere200 1
+    100410: Sphere201
+    100412: Sphere202
+    100414: Sphere203
+    100416: Sphere204
+    100418: Sphere266
+    100420: Spring004
+    100422: Spring005
+    100424: Spring006
+    100426: Spring007
+    100428: Spring008
+    100430: Spring009
+    100432: Spring010
+    100434: Spring011
+    100436: Spring011 1
+    100438: Torus011
+    100440: VRayLight013
+    100442: VRayLight014
+    100444: VRayLight015
+    100446: VRayLight016
+    100448: VRayLight017
+    100450: VRayLight019
+    100452: VRayLight019 1
+    100454: VRayLight020
+    100456: VRayLight021
+    400000: bra
+    400002: bra 3
+    400004: bra smol
+    400006: Circle007
+    400008: Circle008
+    400010: Circle009
+    400012: Circle010
+    400014: Circle011
+    400016: Circle012
+    400018: Circle013
+    400020: Circle014
+    400022: Circle015
+    400024: Circle016
+    400026: Circle017
+    400028: Circle018
+    400030: Circle019
+    400032: Circle020
+    400034: Circle021
+    400036: Circle021 1
+    400038: Circle022
+    400040: Circle022 1
+    400042: Cylinder568
+    400044: Cylinder569
+    400046: Cylinder570
+    400048: Cylinder571
+    400050: Cylinder572
+    400052: Cylinder573
+    400054: Cylinder574
+    400056: Cylinder575
+    400058: Cylinder576
+    400060: Cylinder577
+    400062: Cylinder578
+    400064: Cylinder579
+    400066: Cylinder580
+    400068: Cylinder581
+    400070: Cylinder582
+    400072: Cylinder583
+    400074: Cylinder584
+    400076: Cylinder585
+    400078: Cylinder587
+    400080: Cylinder587 1
+    400082: Cylinder588
+    400084: Cylinder614
+    400086: Cylinder615
+    400088: Cylinder616
+    400090: Cylinder616 1
+    400092: Cylinder617
+    400094: Cylinder617 1
+    400096: Cylinder618
+    400098: Cylinder618 1
+    400100: Group185
+    400102: Group190
+    400104: Group195
+    400106: Group200
+    400108: Group204
+    400110: Group205
+    400112: Group207
+    400114: Group208
+    400116: Group209
+    400118: Group329
+    400120: Group330
+    400122: Group331
+    400124: Group332
+    400126: Group332 1
+    400128: Group333
+    400130: Group333 1
+    400132: Group334
+    400134: Group334 1
+    400136: //RootNode
+    400138: Line001
+    400140: Line003
+    400142: Line031
+    400144: Line032
+    400146: Line033
+    400148: Line034
+    400150: Line035
+    400152: Line036
+    400154: Line037
+    400156: Line038
+    400158: Line039
+    400160: Line040
+    400162: Line041
+    400164: Line042
+    400166: Line043
+    400168: Line044
+    400170: Line045
+    400172: Line046
+    400174: Line047
+    400176: Line048
+    400178: Line049
+    400180: Line050
+    400182: Line051
+    400184: Line052
+    400186: Line053
+    400188: Line054
+    400190: Line055
+    400192: Line056
+    400194: Line057
+    400196: Line058
+    400198: Line059
+    400200: Line060
+    400202: Line061
+    400204: Line062
+    400206: Line063
+    400208: Line064
+    400210: Line065
+    400212: Line066
+    400214: Line067
+    400216: Line068
+    400218: Line069
+    400220: Line070
+    400222: Line071
+    400224: Line072
+    400226: Line073
+    400228: Line074
+    400230: Line075
+    400232: Line076
+    400234: Line077
+    400236: Line078
+    400238: Line079
+    400240: Line080
+    400242: Line081
+    400244: Line082
+    400246: Line083
+    400248: Line084
+    400250: Line085
+    400252: Line086
+    400254: Line087
+    400256: Line088
+    400258: Line089
+    400260: Line090
+    400262: Line091
+    400264: Line092
+    400266: Line093
+    400268: Line094
+    400270: Line095
+    400272: Line096
+    400274: Line097
+    400276: Line098
+    400278: Line099
+    400280: Line100
+    400282: Line101
+    400284: Line102
+    400286: Line103
+    400288: Line272
+    400290: Line273
+    400292: Line274
+    400294: Line275
+    400296: Line276
+    400298: Line278
+    400300: Line278 1
+    400302: Line279
+    400304: Line279 1
+    400306: Line280
+    400308: Line281
+    400310: Line282
+    400312: Line283
+    400314: Line284
+    400316: Line285
+    400318: Line286
+    400320: Line287
+    400322: Line288
+    400324: Line289
+    400326: Line290
+    400328: Line291
+    400330: Line292
+    400332: Line293
+    400334: Line293 1
+    400336: Line294
+    400338: Line294 1
+    400340: Line295
+    400342: Line295 1
+    400344: Line296
+    400346: Line296 1
+    400348: Line297
+    400350: Line297 1
+    400352: Line298
+    400354: Line298 1
+    400356: Line299
+    400358: Line299 1
+    400360: Line300
+    400362: Line300 1
+    400364: Line301
+    400366: Line301 1
+    400368: Line302
+    400370: Line302 1
+    400372: Line303
+    400374: Line303 1
+    400376: Line304
+    400378: Line305
+    400380: lustra
+    400382: lustra 1
+    400384: Sphere181
+    400386: Sphere182
+    400388: Sphere183
+    400390: Sphere184
+    400392: Sphere185
+    400394: Sphere186
+    400396: Sphere187
+    400398: Sphere188
+    400400: Sphere189
+    400402: Sphere199
+    400404: Sphere199 1
+    400406: Sphere200
+    400408: Sphere200 1
+    400410: Sphere201
+    400412: Sphere202
+    400414: Sphere203
+    400416: Sphere204
+    400418: Sphere266
+    400420: Spring004
+    400422: Spring005
+    400424: Spring006
+    400426: Spring007
+    400428: Spring008
+    400430: Spring009
+    400432: Spring010
+    400434: Spring011
+    400436: Spring011 1
+    400438: Torus011
+    400440: VRayLight013
+    400442: VRayLight014
+    400444: VRayLight015
+    400446: VRayLight016
+    400448: VRayLight017
+    400450: VRayLight019
+    400452: VRayLight019 1
+    400454: VRayLight020
+    400456: VRayLight021
+    2300000: Cylinder568
+    2300002: Cylinder569
+    2300004: Cylinder570
+    2300006: Cylinder571
+    2300008: Cylinder572
+    2300010: Cylinder573
+    2300012: Cylinder574
+    2300014: Cylinder575
+    2300016: Cylinder576
+    2300018: Cylinder577
+    2300020: Cylinder578
+    2300022: Cylinder579
+    2300024: Cylinder580
+    2300026: Cylinder581
+    2300028: Cylinder582
+    2300030: Cylinder583
+    2300032: Cylinder584
+    2300034: Cylinder585
+    2300036: Cylinder587
+    2300038: Cylinder587 1
+    2300040: Cylinder588
+    2300042: Cylinder614
+    2300044: Cylinder615
+    2300046: Cylinder616
+    2300048: Cylinder616 1
+    2300050: Cylinder617
+    2300052: Cylinder617 1
+    2300054: Cylinder618
+    2300056: Cylinder618 1
+    2300058: Line001
+    2300060: Line003
+    2300062: Line031
+    2300064: Line032
+    2300066: Line033
+    2300068: Line043
+    2300070: Line044
+    2300072: Line045
+    2300074: Line052
+    2300076: Line053
+    2300078: Line056
+    2300080: Line057
+    2300082: Line058
+    2300084: Line065
+    2300086: Line066
+    2300088: Line069
+    2300090: Line070
+    2300092: Line071
+    2300094: Line078
+    2300096: Line079
+    2300098: Line082
+    2300100: Line083
+    2300102: Line084
+    2300104: Line091
+    2300106: Line092
+    2300108: Line093
+    2300110: Line094
+    2300112: Line095
+    2300114: Line096
+    2300116: Line278
+    2300118: Line278 1
+    2300120: Line280
+    2300122: Line281
+    2300124: Line282
+    2300126: Line291
+    2300128: Line292
+    2300130: Line294
+    2300132: Line294 1
+    2300134: Line295
+    2300136: Line295 1
+    2300138: Line296
+    2300140: Line296 1
+    2300142: Line303
+    2300144: Line303 1
+    2300146: Line304
+    2300148: Line305
+    2300150: Sphere181
+    2300152: Sphere182
+    2300154: Sphere183
+    2300156: Sphere184
+    2300158: Sphere185
+    2300160: Sphere186
+    2300162: Sphere187
+    2300164: Sphere188
+    2300166: Sphere189
+    2300168: Sphere199
+    2300170: Sphere199 1
+    2300172: Sphere200
+    2300174: Sphere200 1
+    2300176: Sphere201
+    2300178: Sphere202
+    2300180: Sphere203
+    2300182: Sphere204
+    2300184: Sphere266
+    2300186: Spring004
+    2300188: Spring005
+    2300190: Spring006
+    2300192: Spring007
+    2300194: Spring008
+    2300196: Spring009
+    2300198: Spring010
+    2300200: Spring011
+    2300202: Spring011 1
+    2300204: Torus011
+    3300000: Cylinder568
+    3300002: Cylinder569
+    3300004: Cylinder570
+    3300006: Cylinder571
+    3300008: Cylinder572
+    3300010: Cylinder573
+    3300012: Cylinder574
+    3300014: Cylinder575
+    3300016: Cylinder576
+    3300018: Cylinder577
+    3300020: Cylinder578
+    3300022: Cylinder579
+    3300024: Cylinder580
+    3300026: Cylinder581
+    3300028: Cylinder582
+    3300030: Cylinder583
+    3300032: Cylinder584
+    3300034: Cylinder585
+    3300036: Cylinder587
+    3300038: Cylinder587 1
+    3300040: Cylinder588
+    3300042: Cylinder614
+    3300044: Cylinder615
+    3300046: Cylinder616
+    3300048: Cylinder616 1
+    3300050: Cylinder617
+    3300052: Cylinder617 1
+    3300054: Cylinder618
+    3300056: Cylinder618 1
+    3300058: Line001
+    3300060: Line003
+    3300062: Line031
+    3300064: Line032
+    3300066: Line033
+    3300068: Line043
+    3300070: Line044
+    3300072: Line045
+    3300074: Line052
+    3300076: Line053
+    3300078: Line056
+    3300080: Line057
+    3300082: Line058
+    3300084: Line065
+    3300086: Line066
+    3300088: Line069
+    3300090: Line070
+    3300092: Line071
+    3300094: Line078
+    3300096: Line079
+    3300098: Line082
+    3300100: Line083
+    3300102: Line084
+    3300104: Line091
+    3300106: Line092
+    3300108: Line093
+    3300110: Line094
+    3300112: Line095
+    3300114: Line096
+    3300116: Line278
+    3300118: Line278 1
+    3300120: Line280
+    3300122: Line281
+    3300124: Line282
+    3300126: Line291
+    3300128: Line292
+    3300130: Line294
+    3300132: Line294 1
+    3300134: Line295
+    3300136: Line295 1
+    3300138: Line296
+    3300140: Line296 1
+    3300142: Line303
+    3300144: Line303 1
+    3300146: Line304
+    3300148: Line305
+    3300150: Sphere181
+    3300152: Sphere182
+    3300154: Sphere183
+    3300156: Sphere184
+    3300158: Sphere185
+    3300160: Sphere186
+    3300162: Sphere187
+    3300164: Sphere188
+    3300166: Sphere189
+    3300168: Sphere199
+    3300170: Sphere199 1
+    3300172: Sphere200
+    3300174: Sphere200 1
+    3300176: Sphere201
+    3300178: Sphere202
+    3300180: Sphere203
+    3300182: Sphere204
+    3300184: Sphere266
+    3300186: Spring004
+    3300188: Spring005
+    3300190: Spring006
+    3300192: Spring007
+    3300194: Spring008
+    3300196: Spring009
+    3300198: Spring010
+    3300200: Spring011
+    3300202: Spring011 1
+    3300204: Torus011
+    4300000: Line278
+    4300002: Sphere200
+    4300004: Sphere199
+    4300006: Cylinder587
+    4300008: Cylinder616
+    4300010: Line294
+    4300012: Line295
+    4300014: Line296
+    4300016: Spring011
+    4300018: Cylinder617
+    4300020: Cylinder618
+    4300022: Line303
+    4300024: Sphere266
+    4300026: Cylinder568
+    4300028: Cylinder570
+    4300030: Cylinder571
+    4300032: Line003
+    4300034: Line031
+    4300036: Line032
+    4300038: Line033
+    4300040: Spring004
+    4300042: Cylinder569
+    4300044: Line001
+    4300046: Sphere182
+    4300048: Sphere181
+    4300050: Cylinder573
+    4300052: Cylinder574
+    4300054: Line053
+    4300056: Cylinder572
+    4300058: Sphere183
+    4300060: Sphere184
+    4300062: Line052
+    4300064: Spring005
+    4300066: Line043
+    4300068: Line044
+    4300070: Line045
+    4300072: Torus011
+    4300074: Cylinder582
+    4300076: Cylinder583
+    4300078: Line092
+    4300080: Cylinder581
+    4300082: Sphere189
+    4300084: Line091
+    4300086: Spring008
+    4300088: Line082
+    4300090: Line083
+    4300092: Line084
+    4300094: Cylinder576
+    4300096: Cylinder577
+    4300098: Line066
+    4300100: Spring006
+    4300102: Line056
+    4300104: Line057
+    4300106: Line058
+    4300108: Cylinder575
+    4300110: Sphere185
+    4300112: Sphere186
+    4300114: Line065
+    4300116: Cylinder579
+    4300118: Cylinder580
+    4300120: Line079
+    4300122: Spring007
+    4300124: Line069
+    4300126: Line070
+    4300128: Line071
+    4300130: Cylinder578
+    4300132: Sphere187
+    4300134: Sphere188
+    4300136: Line078
+    4300138: Sphere204
+    4300140: Sphere203
+    4300142: Sphere200
+    4300144: Sphere199
+    4300146: Sphere201
+    4300148: Sphere202
+    4300150: Line304
+    4300152: Line278
+    4300154: Line305
+    4300156: Line292
+    4300158: Cylinder587
+    4300160: Cylinder584
+    4300162: Line094
+    4300164: Line095
+    4300166: Line096
+    4300168: Spring009
+    4300170: Cylinder585
+    4300172: Cylinder588
+    4300174: Line093
+    4300176: Cylinder614
+    4300178: Line280
+    4300180: Line281
+    4300182: Line282
+    4300184: Spring010
+    4300186: Cylinder615
+    4300188: Line291
+    4300190: Cylinder616
+    4300192: Line294
+    4300194: Line295
+    4300196: Line296
+    4300198: Spring011
+    4300200: Cylinder617
+    4300202: Cylinder618
+    4300204: Line303
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

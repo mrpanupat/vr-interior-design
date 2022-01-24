@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 80c2dfed9f4f32848b1e80ef4b1f05bb
+timeCreated: 1490778503
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 292041611
+    100002: 292041611.001
+    100004: 292041611.002
+    100006: 292041611.003
+    100008: 292041611.004
+    100010: 292041611.005
+    100012: 292041611.006
+    100014: 292041611.007
+    100016: 292041611.008
+    100018: 292041611.009
+    100020: 292041611.010
+    100022: 292041611.011
+    100024: 292041611.012
+    100026: 292041611.013
+    100028: 292041611.014
+    100030: 292041611.015
+    100032: 292041611.016
+    100034: 292041611.017
+    100036: 292041611_MeshPart0
+    100038: 292041611_MeshPart1
+    100040: 292041611_MeshPart2
+    100042: Camera
+    100044: //RootNode
+    100046: map (3).osm
+    100048: Plane
+    100050: Plane.001
+    100052: Sun
+    100054: TexturesCom_Skies0206_1_M
+    400000: 292041611
+    400002: 292041611.001
+    400004: 292041611.002
+    400006: 292041611.003
+    400008: 292041611.004
+    400010: 292041611.005
+    400012: 292041611.006
+    400014: 292041611.007
+    400016: 292041611.008
+    400018: 292041611.009
+    400020: 292041611.010
+    400022: 292041611.011
+    400024: 292041611.012
+    400026: 292041611.013
+    400028: 292041611.014
+    400030: 292041611.015
+    400032: 292041611.016
+    400034: 292041611.017
+    400036: 292041611_MeshPart0
+    400038: 292041611_MeshPart1
+    400040: 292041611_MeshPart2
+    400042: Camera
+    400044: //RootNode
+    400046: map (3).osm
+    400048: Plane
+    400050: Plane.001
+    400052: Sun
+    400054: TexturesCom_Skies0206_1_M
+    2300000: 292041611.001
+    2300002: 292041611.002
+    2300004: 292041611.003
+    2300006: 292041611.004
+    2300008: 292041611.005
+    2300010: 292041611.006
+    2300012: 292041611.007
+    2300014: 292041611.008
+    2300016: 292041611.009
+    2300018: 292041611.010
+    2300020: 292041611.011
+    2300022: 292041611.012
+    2300024: 292041611.013
+    2300026: 292041611.014
+    2300028: 292041611.015
+    2300030: 292041611.016
+    2300032: 292041611.017
+    2300034: 292041611_MeshPart0
+    2300036: 292041611_MeshPart1
+    2300038: 292041611_MeshPart2
+    2300040: Plane
+    2300042: Plane.001
+    2300044: TexturesCom_Skies0206_1_M
+    3300000: 292041611.001
+    3300002: 292041611.002
+    3300004: 292041611.003
+    3300006: 292041611.004
+    3300008: 292041611.005
+    3300010: 292041611.006
+    3300012: 292041611.007
+    3300014: 292041611.008
+    3300016: 292041611.009
+    3300018: 292041611.010
+    3300020: 292041611.011
+    3300022: 292041611.012
+    3300024: 292041611.013
+    3300026: 292041611.014
+    3300028: 292041611.015
+    3300030: 292041611.016
+    3300032: 292041611.017
+    3300034: 292041611_MeshPart0
+    3300036: 292041611_MeshPart1
+    3300038: 292041611_MeshPart2
+    3300040: Plane
+    3300042: Plane.001
+    3300044: TexturesCom_Skies0206_1_M
+    4300000: TexturesCom_Skies0206_1_M
+    4300002: Plane.001
+    4300004: Plane
+    4300006: 292041611.017
+    4300008: 292041611.016
+    4300010: 292041611.015
+    4300012: 292041611.014
+    4300014: 292041611.013
+    4300016: 292041611.012
+    4300018: 292041611.011
+    4300020: 292041611.010
+    4300022: 292041611.009
+    4300024: 292041611.008
+    4300026: 292041611.007
+    4300028: 292041611.006
+    4300030: 292041611.005
+    4300032: 292041611.004
+    4300034: 292041611.003
+    4300036: 292041611.002
+    4300038: 292041611.001
+    4300040: 292041611_MeshPart0
+    4300042: 292041611_MeshPart1
+    4300044: 292041611_MeshPart2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
